@@ -1,8 +1,8 @@
-#Brett Haas
+# Brett Haas
 
 *haasbe@appstate.edu*
 
-#####OBJECTIVE: To pursue graduate level education in Geography and Geographic Information Systems (GIS) at Appalachian State University.
+##### OBJECTIVE: To pursue graduate level education in Geography and Geographic Information Systems (GIS) at Appalachian State University.
 
 **EDUCATION**:
 Lenoir-Rhyne University, Hickory, NC, graduated May 2020
